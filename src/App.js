@@ -26,7 +26,7 @@ function App () {
   return (
     <div>
       <Navbar className="bg-light justify-content-between">
-        <Navbar.Brand>Asset-Liability Tracker</Navbar.Brand>
+        <Navbar.Brand>Asset/Liability Tracker</Navbar.Brand>
         <Button 
             variant="primary" 
             onClick={() => setModalShow(true)}
