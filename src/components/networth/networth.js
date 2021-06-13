@@ -6,7 +6,7 @@ import { formatCurrency } from '../../utils/currencyFormatter'
 
 const NetWorth = (props) => {
   return (
-    <Card className="card">
+    <Card className="outer-card">
       <Card.Body>
         <Card className="inner-card">
           <Card.Body>
