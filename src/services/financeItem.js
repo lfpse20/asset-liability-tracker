@@ -1,4 +1,4 @@
-const url = 'http://localhost:8080/api/finance-item/'
+const url = 'https://asset-liability-tracker.azurewebsites.net/api/finance-item/'
 
 export const addFinanceItem = async (item) => {
   const requestOptions = {
