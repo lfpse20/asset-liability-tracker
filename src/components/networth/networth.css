@@ -1,0 +1,33 @@
+.card {
+    margin-top: 1%;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    width: 35vh;
+    min-width: 100%;
+    max-width: 100%;
+}
+
+.inner-card {
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    margin-bottom: 3%;
+}
+
+.item-text {
+    color: rgb(119, 119, 119);
+}
+
+.item-balance {
+    color: rgb(24, 24, 24);
+    font-size: 1.5em;
+}
+
+.networth-text {
+    color: rgb(71, 71, 71);
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.networth-balance {
+    color: rgb(65,105,225);
+    font-size: 2em;
+    font-weight: bold;
+}
